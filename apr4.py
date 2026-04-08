@@ -52,8 +52,8 @@ def Enqueue(num: int):
 # print(Enqueue(5))
 # print(Enqueue(9))
 
-for i in range(15):
-    print(Enqueue(i))
+for i in range(20):
+    print(Enqueue(i+1))
 
 
 
